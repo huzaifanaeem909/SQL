@@ -1,2 +1,2 @@
 # SQL
-Welcome to My SQL Journey. 
+Welcome to My SQL Journey.
